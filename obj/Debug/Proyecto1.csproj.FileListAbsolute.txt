@@ -1,0 +1,57 @@
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\bin\Debug\Proyecto1.exe.config
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\bin\Debug\Proyecto1.exe
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\bin\Debug\Proyecto1.pdb
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Catalogos.catMarca.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Catalogos.catProductos.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Catalogos.catProveedores.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.catSucursal.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Listados.lstMarcas.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Listados.lstProductos.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Listados.lstProveedores.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Formas.Listados.lstSucursal.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Menu.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.exe
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.pdb
+C:\Users\kayar\Desktop\ProyectoA432637\Proyecto1-master\obj\Debug\Proyecto1.exe.config
+C:\Users\kayar\Desktop\POO 432637\bin\Debug\Proyecto1.exe.config
+C:\Users\kayar\Desktop\POO 432637\bin\Debug\Proyecto1.exe
+C:\Users\kayar\Desktop\POO 432637\bin\Debug\Proyecto1.pdb
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.exe.config
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catMarca.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catProductos.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catProveedores.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.catSucursal.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstMarcas.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstProductos.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstProveedores.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstSucursal.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Menu.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.exe
+C:\Users\kayar\Desktop\POO 432637\obj\Debug\Proyecto1.pdb
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\bin\Debug\Proyecto1.exe.config
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\bin\Debug\Proyecto1.exe
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\bin\Debug\Proyecto1.pdb
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.exe.config
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catMarca.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catProductos.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Catalogos.catProveedores.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.catSucursal.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstMarcas.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstProductos.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstProveedores.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Formas.Listados.lstSucursal.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Menu.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.exe
+C:\Users\kayar\Documents\random\UMM\03 tetra\Programación Orientada a Objetos\POO 432637\obj\Debug\Proyecto1.pdb
